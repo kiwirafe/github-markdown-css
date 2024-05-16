@@ -1,9 +1,13 @@
 # github-markdown-css
 
 ### GitHub Markdown Flavoured CSS
+
 Less than 200 lines of CSS replicate the GitHub Markdown style. A fork from [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css/), shortened so that the CSS file is smaller but still supports the same features (shortened from 1087 lines to 187 lines). Useful for people who want faster CSS rendering speed.
 
-### [Online Demo](https://kiwirafe.neocities.org/example)
+### Online Demo
+Click [here](https://kiwirafe.neocities.org/example) to see the online demo.
+
+
 
 ## Usage
 Download the [github.css](github.css) file and add a `markdown-body` class to the container of the rendered Markdown. 
