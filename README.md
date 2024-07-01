@@ -2,11 +2,9 @@
 
 ### GitHub Markdown Flavoured CSS
 
+#### [Online Demo](https://kiwirafe.github.io/github-markdown-css/)
+
 Less than 200 lines of CSS replicate the GitHub Markdown style. A fork from [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css/), shortened so that the CSS file is smaller but still supports the same features (shortened from 1087 lines to 187 lines). Useful for people who want faster CSS rendering speed.
-
-### Online Demo
-Click [here](https://kiwirafe.neocities.org/example) to see the online demo.
-
 
 
 ## Usage
@@ -40,3 +38,5 @@ For example:
 1. Include highlight.js before the CSS file if Syntax Highlighting is needed.
 2. Inline code should be in `<code>` tags when converted to HTML.
 3. Code blocks should be in `<pre><code>` tags when converted to HTML.
+
+
